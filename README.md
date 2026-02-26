@@ -5,7 +5,7 @@
 ## 🌟 Overview
 This project is a **Power BI dashboard** developed to monitor and analyse operational ridership across various routes for better decision-making in the Planning & Strategy department.  
 
-It provides a **centralised view of ridership trends, average ridership, total ridership and operational KPIs** to support data-driven decisions.  
+It provides a **centralised view of ridership trends, average ridership, total ridership and operational Key Performance Indicatiors (KPIs)** to support data-driven decisions.  
 
 ---
 
@@ -19,7 +19,7 @@ The department faced several challenges in operational reporting:
 
 - **Inefficient reporting process**: Multiple manual spreadsheets and fragmented data sources.  
 - **High risk of human error**: Manual calculations led to inconsistencies.  
-- **Limited analytical depth**: Existing reports were mostly static and did not allow detailed exploration of trends or Key Performance Indicators (KPIs). 
+- **Limited analytical depth**: Existing reports were mostly static and did not allow detailed exploration of trends or KPIs. 
 
 ---
 
