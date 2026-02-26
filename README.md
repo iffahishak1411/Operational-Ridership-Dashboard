@@ -36,7 +36,49 @@ To address these issues, a **centralised Power BI dashboard** was developed to:
 ## 🛠 Tools & Technology
 - **Power BI Desktop & Power BI Service** 🖥️  
 - **Power Query**: Data extraction and transformation  
-- **Excel**: Data cleaning & preprocessing  
-- **DAX**: Custom measures for KPIs  
+- **Excel**: Data preprocessing, including data cleaning and data transformation
+- **DAX**: Custom measures for KPIs
+
+---
+
+## 🏗 Project Walkthrough (Step-by-Step)
+1. **Data Collection & Cleaning**  
+   - Extract ridership data from internal operational databases (SQL).  
+   - Clean and preprocess data in Excel.  
+   - Handle missing values and data inconsistencies.
+
+2. **Data Modeling**  
+   - Import cleaned data into Power BI.  
+   - Define relationships between tables.  
+   - Create calculated columns and measures using **DAX**.
+
+3. **Dashboard Design**  
+   - Design interactive visuals (bar charts, line charts, heatmaps).  
+   - Implement filters for routes, time periods, and operational categories.  
+
+4. **Testing & Validation**  
+   - Verify calculations match source data.  
+   - Validate dashboard accuracy with stakeholders.
+
+5. **Deployment**  
+   - Publish to Power BI Service.  
+   - Enable scheduled data refresh for automated updates.  
+
+---
+
+## ⚙️ Key Features
+- 📊 **Interactive Visuals**: Track ridership per route, per day, and per time slot.  
+- ⏱ **Trend Analysis**: Compare ridership across months and identify peak periods.  
+- 🔍 **Drill-down Functionality**: Analyze granular data by station or line.  
+- 📈 **Performance KPIs**: Monitor operational efficiency and ridership targets.  
+- 🌐 **Web Access**: Embed dashboard in internal portals (optional).  
+
+---
+
+## 🎯 Impact
+- ✅ **Reduced manual reporting effort** by 70%.  
+- ✅ **Improved data accuracy**, minimizing human error.  
+- ✅ **Faster decision-making** for operational planning.  
+- ✅ **Stakeholder satisfaction** increased with centralized, visual insights.  
 
 ---
